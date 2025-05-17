@@ -2,6 +2,7 @@
 Regularized Regression in Python</b>
 
 <b>Process Detail:</b>
+
 <b>Pendahuluan:</b>
 Anda akan menerapkan regresi teratur untuk memprediksi harga perumahan di Boston.
 
