@@ -1,5 +1,5 @@
-<b>Simple & Multiple Regression Models (Supervised)
-Regularized Regression in Python</b>
+<h2><b>Simple & Multiple Regression Models (Supervised)
+Regularized Regression in Python</b></h2>
 
 <b>Process Detail:</b>
 
